@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile 👋
-![GitHub Logo](https://github.com/Martin-laicw/repo-name/raw/main/image.png)
+![GitHub Logo](https://github.com/Martin-laicw/Martin-laicw/blob/main/Profile_Picture.jpg)
 
 Hello there! I'm Chun Wai, a new learner of web development with a strong interest for coding. Here's a bit about me:
 
@@ -9,7 +9,7 @@ Hello there! I'm Chun Wai, a new learner of web development with a strong intere
 - 📫 How to reach me: 
 
 ## Technologies I Love
-- ![WIRED - The Latest in Technology](https://www.wired.com/)
+- [WIRED - The Latest in Technology](https://www.wired.com/)
 
 ## My Projects
 - [Project 1: my first repository](https://github.com/Martin-laicw/byb_project)
