@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile 👋
+![GitHub Logo](https://github.com/Martin-laicw/repo-name/raw/main/image.png)
 
-<!--
-**Martin-laicw/Martin-laicw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there! I'm Chun Wai, a new learner of web development with a strong interest for coding. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on projects learning.
+- 🌱 I’m learning web development.
+- 💬 Ask me about programming, tech, or anything else!
+- 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I Love
+- ![WIRED - The Latest in Technology](https://www.wired.com/)
+
+## My Projects
+- [Project 1: my first repository](https://github.com/Martin-laicw/byb_project)
+
+## Connect With Me
+
+
+
+
